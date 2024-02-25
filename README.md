@@ -1,4 +1,3 @@
-```
 # Text Extraction and Analysis
 
 This project provides a command line app and a Flask web app for extracting and analyzing text from PDF or image files. The extracted text is processed to identify key-value pairs, which can be useful for various applications.
@@ -88,4 +87,3 @@ The Flask web app provides a user-friendly interface for uploading files and ext
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
