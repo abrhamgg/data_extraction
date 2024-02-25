@@ -7,7 +7,7 @@ This project provides a command line app and a Flask web app for extracting and 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/text-extraction.git
+   git clone https://github.com/abrhamgg/data_extraction
    ```
 
 2. Navigate to the project directory:
